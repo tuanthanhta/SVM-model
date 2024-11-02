@@ -4,4 +4,3 @@ Specificly, I use SVM here
 
 SVM1 file is used to decide which model to use while the SVM file is the main file where model is built
 
-**build**
